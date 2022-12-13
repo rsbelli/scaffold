@@ -13,3 +13,6 @@ def test_hello_subtract():
 
 def test_hello_add():
     assert add(test_hello_add.x) == 11
+
+def test_hello_toyou():
+    assert toyou(test_hello_toyou.x) == 10
